@@ -46,3 +46,5 @@ Feel free to customize DrumStruck according to your preferences:
 
 
 ## Happy drumming! 🥁✨
+
+<br>
