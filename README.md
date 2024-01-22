@@ -40,7 +40,7 @@ Feel free to customize Drum Struck according to your preferences:
 
 - Modify the content in `index.html` to enhance or personalize the user interface.
 - Update styles in the `styles/` directory to match any design choices you prefer.
-- Replace drum sounds in the `sounds/` folder with your own audio files if desired.
+- Replace drum sounds in the `audio/` folder with your own audio files if desired.
 - Explore and modify the scripts in the `scripts/` directory for additional features or adjustments.
 <br>
 
