@@ -1,12 +1,12 @@
 ## Checkout the Website : <strong><em>[Drum Struck](https://asa2468.github.io/DrumStruck/)</em></strong>
 <br>
 
-### *A virtual drumming experience on your fingertips.*
+### *A virtual drumming experience at your fingertips.*
 <br>
 
 ## Overview
 
-DrumStruck is an interactive drumming application that allows users to simulate drumming on their computer. Whether you are a professional drummer looking for a portable practice tool or a beginner eager to explore the world of drumming, DrumStruck provides a virtual drum kit at your fingertips.
+DrumStruck is an interactive drumming application that allows users to simulate drumming on their computer. Whether you are a professional drummer looking for a portable practice tool or a beginner eager to explore the world of drumming, Drum Struck provides a virtual drum kit at your fingertips.
 
 <br>
 
@@ -18,7 +18,7 @@ DrumStruck is an interactive drumming application that allows users to simulate 
 
 ## Getting Started
 
-To experience DrumStruck, follow these steps:
+To experience Drum Struck, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Asa2468/DrumStruck.git`
 2. Open the `index.html` file in your preferred web browser.
@@ -27,16 +27,16 @@ To experience DrumStruck, follow these steps:
 
 ## Project Structure
 
-- `index.html:` The main HTML file containing the structure of the DrumStruck application.
+- `index.html:` The main HTML file containing the structure of the Drum Struck application.
 - `styles/:` Directory containing CSS files for styling the application.
-- `sounds/:` Folder to store drum sounds used in the application.
+- `audio/:` Folder to store drum sounds used in the application.
 - `scripts/:` Directory containing JavaScript files for the functionality of DrumStruck.
 <br>
 
 
-## Customization - Please do so locally
+## Customization
 
-Feel free to customize DrumStruck according to your preferences:
+Feel free to customize Drum Struck according to your preferences:
 
 - Modify the content in `index.html` to enhance or personalize the user interface.
 - Update styles in the `styles/` directory to match any design choices you prefer.
