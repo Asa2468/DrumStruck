@@ -12,7 +12,7 @@ DrumStruck is an interactive drumming application that allows users to simulate 
 
 ## Main Feature
 
- **Virtual Drum Kit:** Play drums using your computer keyboard.
+ **Virtual Drum Kit:** Play drums using your laptop or computer keyboard.
  
 <br>
 
