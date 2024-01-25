@@ -3,6 +3,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+  @media only screen and (min-width: 1920px) {
+    body {
+      background-image: url("https://c1.wallpaperflare.com/preview/325/927/748/black-white-concert-reggae-music.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% auto; /* Adjust the width to your preference */
+    }
+  }
   nav {
     display: flex;
     justify-content: center;
@@ -20,7 +27,7 @@ body {
   display:flex;
   justify-content: center;
   width: 100%;
-  height: 26vh;
+  height: 24vh;
   align-items: center;
 }
   #drum-wrapper-2 {
@@ -29,7 +36,7 @@ body {
     display:flex;
     justify-content: center;
     width: 100%;
-    height: 27vh;
+    height: 24vh;
     align-items: center;
   }
 
@@ -39,7 +46,7 @@ body {
   display:flex;
   justify-content: center;
   width: 100%;
-  height: 28vh;
+  height: 24vh;
   align-items: center;
 }
   .key {
