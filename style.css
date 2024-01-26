@@ -1,25 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Rock+Salt&display=swap');
 body {
-    background-image: url("https://c1.wallpaperflare.com/preview/325/927/748/black-white-concert-reggae-music.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image:url("/background-img.jpg");
+  background-repeat: repeat;
+  background-size:cover;
+}
+nav {
+  font-family: "Rock Salt", cursive;
+  color: rgb(158, 155, 153);
+  box-sizing: border-box;
+  /* padding-top: 15px; */
+  font-size: 24px;
+  display: flex; 
+  justify-content: center;
+  text-shadow: 0 0 2px rgba(255, 255, 255, 0.3), 0 0 5px rgba(255, 255, 255, 0.3), 0 0 8px rgba(255, 255, 255, 0.3);
+  animation: neonGlow 1.5s infinite alternate;
+}
+@keyframes neonGlow {
+  from {
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0.3), 0 0 5px rgba(255, 255, 255, 0.3), 0 0 8px rgba(255, 255, 255, 0.3);
   }
-  @media only screen and (min-width: 1920px) {
-    body {
-      background-image: url("https://c1.wallpaperflare.com/preview/325/927/748/black-white-concert-reggae-music.jpg");
-      background-repeat: no-repeat;
-      background-size: 100% auto; /* Adjust the width to your preference */
-    }
+  to {
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.3), 0 0 8px rgba(255, 255, 255, 0.3), 0 0 10px rgba(255, 255, 255, 0.3);
   }
-  nav {
-    display: flex;
-    justify-content: center;
-  }
-  #logo-icon {
-    width: 80px;
-    height: 80px;
-    padding-top: 38px;
-    margin: 0%;
-    opacity: 0.6;
 }
 #drum-wrapper-1 {
   margin: 0px;
@@ -27,7 +29,7 @@ body {
   display:flex;
   justify-content: center;
   width: 100%;
-  height: 24vh;
+  height: 16vh;
   align-items: center;
 }
   #drum-wrapper-2 {
@@ -57,11 +59,9 @@ body {
     box-sizing: border-box;
     margin: 0px 15px;
     font-size: 30px;
-    border: solid;
+    border: none;
     border-radius: 10px;
-    background-color: black;
+    background-color: rgb(59, 59, 59);
     opacity: 0.5;
-    border-width: 4px;
-    border-color: black;
     color: white;
   }
