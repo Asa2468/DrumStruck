@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-    if (viewportWidth < 600) {
-      window.location.href = "https://asa2468.github.io/DrumStruck/desktop";
-    }
-  });
+  const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+  if (viewportWidth < 600) {
+    window.location.href = "/DrumStruck/desktop";
+  }
+});
 
 var magnifyq=document.getElementById("qkey");
 var magnifyw=document.getElementById("wkey");
