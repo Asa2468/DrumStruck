@@ -1,3 +1,10 @@
+document.addEventListener('DOMContentLoaded', function () {
+    const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+    if (viewportWidth < 600) {
+      window.location.href = "https://your-desktop-site-url";
+    }
+  });
+
 var magnifyq=document.getElementById("qkey");
 var magnifyw=document.getElementById("wkey");
 var magnifye=document.getElementById("ekey");
