@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const viewportWidth = window.innerWidth || document.documentElement.clientWidth;
     if (viewportWidth < 600) {
-      window.location.href = "https://your-desktop-site-url";
+      window.location.href = "https://asa2468.github.io/DrumStruck/desktop";
     }
   });
 
