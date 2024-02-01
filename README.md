@@ -51,6 +51,6 @@ Feel free to customize Drum Struck according to your preferences:
 <br>
 
 
-## Happy drumming! 🥁✨🎶
+## Happy Drumming! 🥁✨🎶
 
 <br>
