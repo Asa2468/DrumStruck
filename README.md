@@ -1,4 +1,4 @@
-## Checkout the Website : <strong><em>[Drum Struck](https://asa2468.github.io/DrumStruck/)</em></strong>
+## See Live Demo : <strong><em>[Drum Struck](https://asa2468.github.io/DrumStruck/)</em></strong>
 <br>
 
 ### *A virtual drumming experience at your fingertips.*
